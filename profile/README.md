@@ -14,8 +14,8 @@ This project is an e-commerce website for selling electronic devices. It provide
 
 ## Diagram
 
-![Use Case Diagram](image/image.png)
-![Class Diagram](image/class-diagram.png)
+![Use Case Diagram](images/images.png)
+![Class Diagram](images/class-diagram.png)
 
 ## Features
 
@@ -33,7 +33,7 @@ This project is an e-commerce website for selling electronic devices. It provide
 - Choose shipping options
 - Chatbot support
 
-![Customer Features](image/visual1.png)
+![Customer Features](images/visual1.png)
 
 ### For Administrators
 
@@ -43,7 +43,7 @@ This project is an e-commerce website for selling electronic devices. It provide
 - Inventory management
 - Review management
 
-![Admin Features](image/visual2.png)
+![Admin Features](images/visual2.png)
 
 ## Project Structure
 
@@ -67,7 +67,7 @@ This project is divided into four main components:
 - Backend Chatbot:
 
   - Rasa
-    ![Rasa](image/rasa_logo_horizontal_purple-3.png)
+    ![Rasa](images/rasa_logo_horizontal_purple-3.png)
 
 - Frontend:
   - ReactJS
