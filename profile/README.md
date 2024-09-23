@@ -4,6 +4,7 @@ This project is an e-commerce website for selling electronic devices. It provide
 
 ## Table of Contents
 
+- [Diagram](#diagram)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
@@ -11,9 +12,15 @@ This project is an e-commerce website for selling electronic devices. It provide
 - [Contributing](#contributing)
 - [License](#license)
 
+## Diagram
+
+![Use Case Diagram](images/image.png)
+![Class Diagram](images/class-diagram.png)
+
 ## Features
 
 ### For Customers
+
 - Browse product catalog
 - Search for products
 - View detailed product information
@@ -24,26 +31,45 @@ This project is an e-commerce website for selling electronic devices. It provide
 - Product reviews and ratings
 - Payment options (Credit card, Zalopay, Momo)
 - Choose shipping options
+- Chatbot support
+
+![Customer Features](images/visual1.png)
 
 ### For Administrators
+
 - Product management
 - Customer management
 - Order management
 - Inventory management
 - Review management
 
+![Admin Features](images/visual2.png)
+
 ## Project Structure
 
-This project is divided into two main components:
+This project is divided into four main components:
 
-1. Backend: [Link to Backend Repository](#)
-2. Frontend: [Link to Frontend Repository](#)
+1. Backend: [Link to Backend Repository](https://github.com/nguyenphuctien4865/Ecommerce_server)
+2. Frontend-Admin: [Link to Frontend Repository](https://github.com/UTE-Ecommerce-Chatbot/Ecommerce_admin)
+3. Frontend-User: [Link to Frontend Repository](https://github.com/UTE-Ecommerce-Chatbot/Ecommerce_client)
+4. Rasa Chatbot: [Link to Rasa Repository](https://github.com/UTE-Ecommerce-Chatbot/Ecommerce_Chatbot)
 
 ## Technologies Used
 
-- Backend: [List of backend technologies]
-- Frontend: [List of frontend technologies]
-- Database: [Database system used]
+- Backend:
+  - Java 8
+  - Spring Boot
+  - Spring JPA
+  - Spring Security
+  - Spring Boot Starter Mail
+  - SLF4J
+  - ...
+- Backend Chatbot:
+  - Rasa
+- Frontend:
+  - ReactJS
+- Database:
+  - MySQL
 
 ## Getting Started
 
@@ -51,7 +77,8 @@ This project is divided into two main components:
 
 ## Contributing
 
-[Explain how others can contribute to this project]
+- Nguyen Phuc Tien - 20110573
+- Lau Viet Van - 20110598
 
 ## License
 
