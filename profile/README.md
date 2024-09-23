@@ -65,7 +65,10 @@ This project is divided into four main components:
   - SLF4J
   - ...
 - Backend Chatbot:
+
   - Rasa
+    ![Rasa](image/rasa_logo_horizontal_purple-3.png)
+
 - Frontend:
   - ReactJS
 - Database:
