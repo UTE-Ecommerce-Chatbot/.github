@@ -2,7 +2,6 @@
 
 This project is an e-commerce website for selling electronic devices. It provides a platform for customers to browse, search, and purchase various electronic products online.
 
-
 ## Table of Contents
 
 - [Diagram](#diagram)
