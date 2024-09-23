@@ -14,7 +14,7 @@ This project is an e-commerce website for selling electronic devices. It provide
 
 ## Diagram
 
-![Use Case Diagram](images/images.png)
+![Use Case Diagram](images/image.png)
 ![Class Diagram](images/class-diagram.png)
 
 ## Features
@@ -67,7 +67,7 @@ This project is divided into four main components:
 - Backend Chatbot:
 
   - Rasa
-    ![Rasa](images/rasa_logo_horizontal_purple-3.png)
+    ![Rasa](images/rasa_logo_horizontal_purple-3.webp)
 
 - Frontend:
   - ReactJS
