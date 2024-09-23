@@ -14,8 +14,8 @@ This project is an e-commerce website for selling electronic devices. It provide
 
 ## Diagram
 
-![Use Case Diagram](images/image.png)
-![Class Diagram](images/class-diagram.png)
+![Use Case Diagram](image/image.png)
+![Class Diagram](image/class-diagram.png)
 
 ## Features
 
@@ -33,7 +33,7 @@ This project is an e-commerce website for selling electronic devices. It provide
 - Choose shipping options
 - Chatbot support
 
-![Customer Features](images/visual1.png)
+![Customer Features](image/visual1.png)
 
 ### For Administrators
 
@@ -43,7 +43,7 @@ This project is an e-commerce website for selling electronic devices. It provide
 - Inventory management
 - Review management
 
-![Admin Features](images/visual2.png)
+![Admin Features](image/visual2.png)
 
 ## Project Structure
 
@@ -82,4 +82,4 @@ This project is divided into four main components:
 
 ## License
 
-[Specify the license for this project]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
